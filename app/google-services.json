@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "821826918809",
+    "firebase_url": "https://totalitycorpapp1.firebaseio.com",
+    "project_id": "totalitycorpapp1",
+    "storage_bucket": "totalitycorpapp1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821826918809:android:e9e3ff99912f4bec",
+        "android_client_info": {
+          "package_name": "com.example.rahul1993.totalitycorpapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821826918809-r11d1h9v88k28boov3sfn0q0nigg8n6q.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "821826918809-r11d1h9v88k28boov3sfn0q0nigg8n6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlbuQGLA28cSE0EmocZUgc5Osy-5CA3dM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

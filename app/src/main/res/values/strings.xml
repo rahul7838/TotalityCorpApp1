@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TotalityCorpApp1</string>
+
+    <string name="password_hint">Password</string>
+    <string name="username_hint">Email Id</string>
+    <string name="register_now">Dont have account? Register now</string>
+    <string name="login">LOGIN</string>
+
+    <string name="retype_password_hint">Retype password</string>
+    <string name="button_register_now">Register Now</string>
+
+    <string name="warning_login_field_empty">Username or Password field is empty</string>
+
+    <string name="warning_registration">Not valid email or password length is short</string>
+
+    <string name="account_type">com.totalityCorp</string>
+    
+    <string name="shared_user_id">com.id</string>
+</resources>
